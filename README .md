@@ -5,7 +5,7 @@ An AI chatbot built on Botpress that helps users discover and get briefed on new
 ## Live Demo
 [Chat with the bot](https://cdn.botpress.cloud/webchat/v5.0/shareable.html?configUrl=https://files.bpcontent.cloud/2026/09/26/09/20260926090359-0IHT7TQR.json)
 
-Demo page: `https://YOUR-USERNAME.github.io/YOUR-REPO-NAME`
+Demo page: `https://l181-blip.github.io/ndtv-chatbot`
 
 ## Features
 - News discovery and news briefing playbooks
@@ -25,4 +25,4 @@ Add screenshots of the bot here, for example `![Chat screenshot](screenshot.png)
 Open `index.html` in a browser, or visit the demo page above.
 
 ## Author
-Your Name
+Iffat Jabeen
